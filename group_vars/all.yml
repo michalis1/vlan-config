@@ -1,5 +1,3 @@
-ntc training ~/labs/vlan-config (master) $ mkdir group_vars
-ntc training ~/labs/vlan-config (master) $ cat group_vars/all.yml
 vlans:
   - id: 10
     name: STORAGE
